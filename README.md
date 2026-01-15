@@ -18,7 +18,7 @@ This project is the official website for Vardan Hospital & Maternity Center. It 
 
 ### Doctors
 - [Dr. Vivek Chandra Saxena](doctors/dr-vivek-chandra-saxena.html) - General & Laparoscopic Surgeon
-- [Dr. Anshu Saxena](doctors/dr-anshu-saxena.html) - Senior Gynecologist & Obstetrician
+- [Dr. Ashu Saxena](doctors/dr-anshu-saxena.html) - Senior Gynecologist & Obstetrician
 - [Dr. Pramod Kumar](doctors/dr-pramod-kumar.html) - Senior Radiologist
 - [Dr. Deepak Mishra](doctors/dr-deepak-mishra.html) - Senior Anesthetist
 - [Dr. Manit Saxena](doctors/dr-manit-saxena.html) - Pediatrician
